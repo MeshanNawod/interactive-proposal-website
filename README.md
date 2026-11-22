@@ -6,7 +6,7 @@ The Valentine page with a unique Valentine ID and an optional Telegram message t
 
 [![Live demo](https://img.shields.io/badge/Live_demo-Open_in_browser-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white)](https://meshannawod.github.io/interactive-proposal-website/)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![License: GPL v2+](https://img.shields.io/badge/License-GPL_v2%2B-blue?style=flat-square)
 
 <img src="docs/screenshot.png" alt="Valentine page builder" width="860">
 
@@ -344,3 +344,7 @@ Telegram Bot
 ```
 
 This keeps your current downloadable-file idea while giving you an immediate notification when the recipient presses **YES**.
+
+## License
+
+This project is licensed under the GNU General Public License v2.0 or later (GPL-2.0-or-later). See [LICENSE](LICENSE).
